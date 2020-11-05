@@ -1,4 +1,4 @@
-# LZW Image Processor
+# LZW Image Compressor
 
 Algoritmo para compactar imagens em formato LZW 
 

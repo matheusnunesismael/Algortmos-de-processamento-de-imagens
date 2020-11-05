@@ -5,6 +5,7 @@ Algoritmo para compactar imagens em formato LZW
 ## Instalação
 
 Para instalar as dependencias digite o comando
+
     ```
         pip install pillow numpy
     ```

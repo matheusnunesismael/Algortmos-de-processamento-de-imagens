@@ -1,13 +1,20 @@
 # LZW Image Compressor
 
-Algoritmo para compactar imagens em formato LZW 
+Algoritmo para compactar imagens em formato LZW
+
+## Instalação
+
+Para instalar as dependencias digite o comando
+    ```
+        pip install pillow numpy
+    ```
 
 ## Diretivas
 
--i diretiva que precede o nome do arquivo de entrada
+**-i** diretiva que precede o nome do arquivo de entrada
 
--o diretiva que precede o nome do arquivo de saida
+**-o** diretiva que precede o nome do arquivo de saida
 
--e diretiva informada independentemente que codifica a imagem de entrada para formato LZW
+**-e** diretiva informada independentemente que codifica a imagem de entrada para formato LZW
 
--d diretiva informada independentemente que decodifica o arquivo de entrada do formato LZW para o formato especificado no nome do arquivo de saída
+**-d** diretiva informada independentemente que decodifica o arquivo de entrada do formato LZW para o formato especificado no nome do arquivo de saída
